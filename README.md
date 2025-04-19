@@ -79,4 +79,4 @@ All visualizations are built using **Seaborn** and **Matplotlib**.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pranav-builds/netflix-edm-project.git
+   git clone https://github.com/pranav-builds/Netflix_EDA_Project
