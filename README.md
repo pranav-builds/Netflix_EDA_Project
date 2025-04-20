@@ -71,7 +71,7 @@ All visualizations are built using **Seaborn** and **Matplotlib**.
 - **Pandas**
 - **Matplotlib**
 - **Seaborn**
-- **Jupyter Notebook**
+- **Jupyter Noteboo**
 
 ---
 
